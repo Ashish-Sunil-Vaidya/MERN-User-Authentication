@@ -15,7 +15,7 @@ function App() {
   const { user } = useAuth();
 
   return (
-    <Router basename="/MERN-User-Authentication">
+    <Router>
       <Routes>
         <Route
           path="/"
