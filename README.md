@@ -1,5 +1,3 @@
-https://project-1-user-authentication--project-1-user-authentication.netlify.app/
-
 # User Authentication using MERN stack
 
 This is a MERN Stack application with a frontend built using React,ChakraUI and Typescript and a backend built using Node.js and ExpressJS.
