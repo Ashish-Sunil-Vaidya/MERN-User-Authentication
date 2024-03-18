@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/Ashish-Sunil-Vaidya/Logical4Bits-MERN.git",
+  "homepage": "https://ashish-sunil-vaidya.github.io/MERN-User-Authentication/",
   "author": "Calm Person <ashuvaidya2003@gmail.com>",
   "license": "MIT",
   "scripts": {
