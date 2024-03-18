@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage":"https://ashish-sunil-vaidya.github.io/mern-user-authentication/",
+  "homepage":"https://Ashish-Sunil-Vaidya.github.io/mern-user-authentication/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
