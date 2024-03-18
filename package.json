@@ -1,0 +1,17 @@
+{
+  "name": "logical4bits-mern",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Ashish-Sunil-Vaidya/Logical4Bits-MERN.git",
+  "author": "Calm Person <ashuvaidya2003@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "frontend": "cd frontend && yarn dev",
+    "backend": "cd backend && yarn dev",
+    "dev": "concurrently --kill-others-on-fail \"yarn backend\" \"yarn frontend\"",
+    "install": "cd backend && yarn install && cd ../frontend && yarn install"
+  },
+  "dependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
